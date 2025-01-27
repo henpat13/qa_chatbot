@@ -1,0 +1,23 @@
+{
+  "exact_match_accuracy": {
+    "mean": 0.08333333333333333,
+    "total_count": 12,
+    "success_count": 1.0,
+    "success_percentage": 8.333333333333332,
+    "valid_entries": 12
+  },
+  "fuzzy_match_accuracy": {
+    "mean": 0.5833333333333334,
+    "total_count": 12,
+    "success_count": 7.0,
+    "success_percentage": 58.333333333333336,
+    "valid_entries": 12
+  },
+  "validation_confidence": {
+    "mean": 0.4166666666666667,
+    "total_count": 12,
+    "success_count": 5.0,
+    "success_percentage": 41.66666666666667,
+    "valid_entries": 12
+  }
+}
